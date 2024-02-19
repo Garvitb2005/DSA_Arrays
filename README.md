@@ -5,3 +5,5 @@
 3.A_insert_beginning : This program adds an element at the beginning of array that is at 0 index.
 
 4.A_insert_end : This program adds an element at the end of array that is after the last index.
+
+5.A_InsertAfterValue : This program will insert new element after the specified value given by user.
